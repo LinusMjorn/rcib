@@ -1,0 +1,13 @@
+{
+  "name": "hello",
+  "version": "hello",
+  "description": "hello",
+  "main": "hello",
+  "repository": "hello",
+  "author": "LinusMjorn",
+  "license": "na",
+  "private": false,
+  "dependencies": {
+    "pg": "^8.5.1"
+  }
+}
